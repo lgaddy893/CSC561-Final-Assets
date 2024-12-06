@@ -1,6 +1,6 @@
 [
   {
-    "material": {"ambient": [0.5,0.5,0.5], "diffuse": [0.1,0.1,0.1], "specular": [0.3,0.3,0.3], "n":17, "alpha": 0.5, "texture": "reticle.svg"}, 
+    "material": {"ambient": [0.5,0.5,0.5], "diffuse": [0.1,0.1,0.1], "specular": [0.3,0.3,0.3], "n":17, "alpha": 0.5, "texture": "https://lgaddy893.github.io/CSC561-Final-Assets/photos/reticle.svg"}, 
     "vertices": [[-0.3, 0.3, 0],[-0.3, -0.3, 0],[0.3,-0.3,0],[0.3,0.3,0]],
     "normals": [[0, 0, 1],[0, 0, 1],[0, 0, 1],[0, 0, 1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
